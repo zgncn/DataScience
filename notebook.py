@@ -8,7 +8,7 @@ Original file is located at
 
 # Data Scientist Associate Practical Exam Submission
 
--In the first task I checked whether all columns match the description given. I corrected the ones that did not match. I completed the missing data (this is my 4th attempt for this certificate and I always make mistakes in this task. please accept it now. I did everything I could)
+-In the first task I checked whether all columns match the description given. I corrected the ones that did not match. I completed the missing data
 -I made the necessary visualizations in the second, third and fourth task
 -in the fifth task I indicated which type of machine learning problem it is.( it is classification problem)
 -in the sixth task I split the data into train and test and used the fit model for the baseline model.(Logistic Regression)
@@ -523,11 +523,3 @@ print(f"Accuracy of Random Forest Classifier model: {rf_accuracy:.2f}")
 
 Based on the accuracy comparison, I can determine which model performs better in terms of predicting attendance.The model with a higher accuracy is generally considered better for the specific task. Accuracy of Logistic Regression model: 0.75 Accuracy of Random Forest Classifier model: 0.75 .If both models have the same accuracy score, it means that they perform similarly on the available dataset.
 
-## ✅  When you have finished...
-- Publish your Workspace using the option on the left
-- Check the published version of your report:
-	- Can you see everything you want us to grade?
-    - Are all the graphics visible?
-- Review the grading rubric. Have you included everything that will be graded?
-- Head back to the [Certification dashboard](https://app.datacamp.com/certification) to submit your practical exam
-"""
